@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Shahbaz Ali Shah</h1>
 
-- 🔭 I’m currently working on Flutter, Android, iOS
+- 🔭 I’m currently working on Flutter, ReactNative, Android, iOS
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me anything about Flutter, Android, iOS
 - 📫 How to reach me: imfreelancer07@gmail.com
