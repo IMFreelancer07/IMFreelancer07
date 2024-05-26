@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me anything about Flutter, Android, iOS
 - 📫 How to reach me: imfreelancer07@gmail.com
-<!--- 😄 My website: https://thetechbrothers.net-->
 - ⚡ Fun fact: I'm a fast learner!
   
 ### Connect with me:
