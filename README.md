@@ -24,6 +24,9 @@
     <a href="https://twitter.com/imfreelancer07">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
+    <a href="https://www.instagram.com/syedtechsolutions/">
+      <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
   </p>
 </div>
 
